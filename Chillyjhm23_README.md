@@ -1,5 +1,5 @@
 # Hi, there
-# I'm currently learning with help from docs.github.com
+# I'm currently learning with help from https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
 # My SOC Analyst Project
 # Project Description: 
 This project is designed to give anyone wanting to pursue a career in Cybersecurity, specifically a career in "Security Operations Center Analyst", an extensive overview of the path they should expect to encounter.  
