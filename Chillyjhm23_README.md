@@ -4,4 +4,6 @@
 # Project Description: 
 This project is designed to give anyone wanting to pursue a career in Cybersecurity, specifically a career in "Security Operations Center Analyst", an extensive overview of the path they should expect to encounter.  
 ![SOC Pic](https://github.com/Chillyjhm23/chilly-world/blob/main/SOC-analyst%20pic.jpg?raw=true)
-[View PowerPoint Presentation](https://github.com/Chillyjhm23/chilly-world/blob/main/SOC%20Analyst%20Proposal%20(Final).pptx)
+# My Presentation
+You can view the PowerPoint presentation by clicking the link below:
+[View PowerPoint Presentation](https://github.com/your-username/your-repo/raw/main/presentation.pptx)
