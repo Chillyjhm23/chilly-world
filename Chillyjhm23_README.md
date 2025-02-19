@@ -8,4 +8,4 @@ This project is designed to give anyone wanting to pursue a career in Cybersecur
 
 You can view the PowerPoint presentation by clicking the link below:
 
-[View PowerPoint Presentation](https://github.com/your-username/your-repo/raw/main/presentation.pptx(https://github.com/Chillyjhm23/chilly-world/blob/main/SOC%20Analyst%20Proposal%20(Final).pptx)
+[View PowerPoint Presentation]https://github.com/Chillyjhm23/chilly-world/blob/main/SOC%20Analyst%20Proposal%20Images%20(MD).pptx))
