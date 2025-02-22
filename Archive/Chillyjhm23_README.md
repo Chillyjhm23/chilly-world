@@ -19,15 +19,15 @@
 
 # Agenda:
 
-## What is SOC 
-## Key Responsibilities of a SOC Analyst 
-## Current Cybersecurity Landscape
-## Threat Landscape
-## Statistics
-## SOC Analyst Role
-## SOC Tools & Technologies
-## SOC Processes
-## SOC Implementation
-## Case Studies
-## Conclusion 
-## References 
+- ## What is SOC 
+- ## Key Responsibilities of a SOC Analyst 
+- ## Current Cybersecurity Landscape
+- ## Threat Landscape
+- ## Statistics
+- ## SOC Analyst Role
+- ## SOC Tools & Technologies
+- ## SOC Processes
+- ## SOC Implementation
+- ## Case Studies
+- ## Conclusion 
+- ## References 
