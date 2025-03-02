@@ -4,7 +4,7 @@
 ## My **SOC Analyst** Project
 ## Project Description: 
 ## This project is designed to give anyone wanting to pursue a career in Cybersecurity, specifically a career as a "Security Operations Center Analyst", a extensive overview of the path they should expect to encounter in pursuing a Certified SOC Analyst (CSA).  
-![SOC Pic](https://github.com/Chillyjhm23/chilly-world/blob/main/SOC-analyst%20pic.jpg)
+![SOC Pic](Archive/SOC Team PIC.jpg)
 ## My Presentation
 
 # **Becoming a SOC Analyst**
