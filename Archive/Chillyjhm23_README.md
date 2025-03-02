@@ -106,4 +106,4 @@ Details: Attackers compromised SolarWinds' software update mechanism, allowing t
 
 Consequences: The full extent of the damage is still being assessed, with estimates running into billions of dollars. The breach underscored the risks associated with supply chain vulnerabilities.
 
-Start Here ( Statistics)
+Start Here ( Statistics) 1st Define: Malware, ransomware, phishing, and advanced persistent threats (APTs), under Common Cyber Threats.
