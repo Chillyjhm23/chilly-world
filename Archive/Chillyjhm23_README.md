@@ -7,7 +7,7 @@
 ![SOC Pic](https://github.com/Chillyjhm23/chilly-world/blob/main/SOC-analyst%20pic.jpg)
 ## My Presentation
 
-# What is a **SOC Analyst**
+# **Becoming a SOC Analyst**
 
 # CIS 260 Project
 
@@ -19,8 +19,10 @@
 
 # **Agenda**:
 
-- ## What is SOC 
-- ## Key Responsibilities of a SOC Analyst 
+- ## Becoming a SOC Analyst  
+- ## Introducton: Importance of a SOC Analyst in Cybersecurity
+- ## What is a SOC Analyst?
+- ## Key Responsibilities 
 - ## Current Cybersecurity Landscape
 - ## Threat Landscape
 - ## Statistics
@@ -29,10 +31,12 @@
 - ## SOC Processes
 - ## SOC Implementation
 - ## Case Studies
-- ## Conclusion 
+- ## Compliance and Regulations
+- ## Career Path and Certifications
+- ## Conclusion
 - ## References 
 
-# What is a **SOC Analyst**?
+# Becoming a SOC Analyst: ***What is a SOC Analyst?***
 
 A SOC (Security Operations Center) analyst is a cybersecurity professional responsible for monitoring, detecting, and responding to security incidents within an organization. They serve as the first line of defense against cyber threats, ensuring that any suspicious activity is promptly identified and addressed.
 
