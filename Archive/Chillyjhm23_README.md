@@ -105,15 +105,15 @@ A SOC (Security Operations Center) analyst is a cybersecurity professional respo
 
 - Adversaries are leveraging generative AI to create convincing phishing emails, fake profiles and malicious websites. This has made social engineering attacks more sophisticated and harder to detected.
 
-## **Malware-Free Attacks**: A significant portion of cyberattacks now bypass traditional malware relying instead on techniques like credential theft and exploiting system vulnerabilities.
+- **Malware-Free Attacks**: A significant portion of cyberattacks now bypass traditional malware relying instead on techniques like credential theft and exploiting system vulnerabilities.
 
-## **Insider Threats**: There has been a noticeable increase in insider threat operations where employees or contractors intentionally or unintentionally compromise security.
+- **Insider Threats**: There has been a noticeable increase in insider threat operations where employees or contractors intentionally or unintentionally compromise security.
 
-## **Supply Chain Vulnerabilities**: Cybercriminals are targeting third-party vendors to exploit supply chain weaknesses gaining access to sensitive data across multiple organizations.
+- **Supply Chain Vulnerabilities**: Cybercriminals are targeting third-party vendors to exploit supply chain weaknesses gaining access to sensitive data across multiple organizations.
 
-## **Focus on Machine Identities**: With the growing use of automation and cloud services managing machine identities has become critical to prevent unauthorized access.
+- **Focus on Machine Identities**: With the growing use of automation and cloud services managing machine identities has become critical to prevent unauthorized access.
 
-## **Regulatory Changes and Talent Shortages**: Organizations are navigating new regulations while facing a shortage of skilled cybersecurity professionals.
+- **Regulatory Changes and Talent Shortages**: Organizations are navigating new regulations while facing a shortage of skilled cybersecurity professionals.
 
 - Common Cyber Threats: Malware, ransomware, phishing, and advanced persistent threats (APTs).
 
