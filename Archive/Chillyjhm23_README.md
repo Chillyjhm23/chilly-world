@@ -7,9 +7,9 @@
 ![SOC Pic](https://www.infosectrain.com/wp-content/uploads/2021/05/Responsibilities-of-SOC-Team.jpg)
 ## My Presentation
 
-# **Becoming a SOC Analyst**
+## **Becoming a SOC Analyst**
 
-# CIS 260 Project
+## CIS 260 Project
 
 
 # By: Joe McClendon
