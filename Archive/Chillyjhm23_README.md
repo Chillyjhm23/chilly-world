@@ -31,9 +31,9 @@
 - ## Conclusion  
 - ## Q&A and References (Citations)
 
-# Becoming a SOC Analyst: An Overview of the Path to a Career in Cybersecurity
+## Becoming a SOC Analyst: An Overview of the Path to a Career in Cybersecurity
 
-# Introducton: Importance of a SOC Analyst in Cybersecurity
+## Introducton: Importance of a SOC Analyst in Cybersecurity
 
 # ***What is a SOC Analyst?***
 
