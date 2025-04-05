@@ -117,7 +117,7 @@ A SOC (Security Operations Center) analyst is a cybersecurity professional respo
 
 - Common Cyber Threats: Malware, ransomware, phishing, and advanced persistent threats (APTs).
 
-## **High-Profile Incidents**:
+# **High-Profile Incidents**:
 
 - **Yahoo Data Breach (2013)**: Impact: 3 billion accounts compromised.
 
