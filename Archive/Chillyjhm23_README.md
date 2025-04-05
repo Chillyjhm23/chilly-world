@@ -19,22 +19,17 @@
 
 # **Agenda**:
 
-- ## Becoming a SOC Analyst: An Overview of the Path to a Career in Cybersecurity 
-- ## Introducton: Importance of a SOC Analyst in Cybersecurity
 - ## What is a SOC Analyst?
-- ## Key Responsibilities 
-- ## Cybersecurity Landscape
-- ## Threat Landscape
-- ## Statistics
-- ## SOC Analyst Role
-- ## SOC Tools & Technologies
-- ## SOC Processes
-- ## SOC Implementation
-- ## Case Studies
-- ## Compliance and Regulations
-- ## Career Path and Certifications
-- ## Conclusion
-- ## References 
+- ## Key Responsibilities of a SOC Analyst
+- ## Security Operations Center(SOC) Analyst Skills
+- ## Cybersecurity Threat Landscape
+- ## Security Operations Center(SOC) Processes
+- ## Security Operations Center(SOC) Tools and Technologies
+- ## Security Operations Center(SOC) Analyst Role
+- ## Cybersecurity Incidents and Challenges that SOC Analyst are actively addressing
+- ## Summary
+- ## Conclusion  
+- ## Q and A and References (Citations)
 
 # Becoming a SOC Analyst: An Overview of the Path to a Career in Cybersecurity
 
