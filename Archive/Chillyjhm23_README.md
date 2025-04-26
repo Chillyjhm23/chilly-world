@@ -137,6 +137,8 @@ Details: Attackers compromised SolarWinds software update mechanism allowing the
 
 Consequences: The full extent of the damage is still being assessed with estimates running into billions of dollars. The breach underscored the risks associated with supply chain vulnerabilities.
 
+ # **Security Operations Center (SOC) Processes** 
+
 - **Security Operations Center (SOC)** Processes are essential for monitoring, detecting, analyzing, and responding to cybersecurity threats.
 
 - **Monitoring** SOC teams continuously monitor an organization's IT infrastructure using advanced tools like Security Information and Event Management (SIEM) systems. This helps detect unusual activities or potential threats in real-time.
@@ -222,6 +224,16 @@ To summarize, a Security Operations Center (SOC) Analyst plays a pivotal role in
 # **Q&A**
 
 # **References (Citations)**
+
+1.	National Institute of Standards and Technology (NIST), "Computer Security Incident Handling Guide (SP 800-61 Revision 2)."
+2.	SANS Institute White Papers on SOC Best Practices and Incident Response.
+3.	Vendor Documentation: Splunk, IBM QRadar, CrowdStrike Falcon, and other leading security solutions.
+4.	MITRE ATT&CK Framework for Threat Analysis and Cyber Defense.
+5.	Industry Reports on Cybersecurity Trends, including analyses by cybersecurity research firms.
+
+**Each referenced item provides further reading and has contributed to the practices and guidelines summarized in this document.**
+
+
 
 
 
